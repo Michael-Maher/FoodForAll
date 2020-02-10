@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='FoodForAllUITests.xctest' tests='6' failures='0'>
+  <testsuite name='FoodForAllTests.FoodForAllTests' tests='4' failures='0'>
+    <testcase classname='FoodForAllTests.FoodForAllTests' name='testFetchingNewTagsPage' time='0.589'/>
+    <testcase classname='FoodForAllTests.FoodForAllTests' name='testFetchingSingleTagList' time='0.294'/>
+    <testcase classname='FoodForAllTests.FoodForAllTests' name='testFetchingTagsList' time='0.009'/>
+    <testcase classname='FoodForAllTests.FoodForAllTests' name='testPerformanceExample' time='0.480'/>
+  </testsuite>
+  <testsuite name='FoodForAllUITests.FoodForAllUITests' tests='2' failures='0'>
+    <testcase classname='FoodForAllUITests.FoodForAllUITests' name='testExample' time='4.720'/>
+    <testcase classname='FoodForAllUITests.FoodForAllUITests' name='testLaunchPerformance' time='39.230'/>
+  </testsuite>
+</testsuites>
